@@ -1,0 +1,19 @@
+# Selamat Datang {.unnumbered}
+
+Modul ini disusun untuk membantu peneliti, mahasiswa, dan praktisi di bidang kesehatan memahami bagaimana menggunakan **R dan RStudio untuk mengolah, menganalisis, memvisualisasikan, dan melaporkan data penelitian secara sistematis**.
+
+Analisis data bukan hanya tentang menjalankan uji statistik. Sebelum sebuah analisis dilakukan, kita perlu memahami struktur data, memastikan kualitas data, menentukan variabel yang tepat, memilih metode analisis yang sesuai dengan pertanyaan penelitian, serta mampu menginterpretasikan hasilnya secara benar. Karena itu, modul ini dirancang mengikuti alur penelitian kuantitatif, mulai dari **data hingga interpretasi hasil**.
+
+Di dalam modul ini, Anda akan mempelajari keterampilan praktis yang diperlukan untuk melakukan analisis data dengan R. Anda akan belajar bagaimana mengimpor dan membersihkan data, melakukan transformasi variabel, mengeksplorasi distribusi data, membuat tabel dan visualisasi, melakukan analisis deskriptif dan bivariat, hingga membangun model regresi multivariable.
+
+Modul ini juga menekankan **statistical reasoning**, bukan sekadar penggunaan sintaks. Setiap metode analisis akan dibahas berdasarkan pertanyaan penelitian, jenis variabel, asumsi analisis, ukuran asosiasi atau efek, confidence interval, serta cara menginterpretasikan hasil dalam konteks penelitian kesehatan masyarakat.
+
+Selain analisis statistik, modul ini memperkenalkan prinsip **reproducible research**. Dengan menggunakan R Project, script yang terstruktur, dan Quarto, proses analisis dapat didokumentasikan sehingga hasil penelitian dapat diperiksa, dijalankan kembali, dan dikembangkan dengan lebih mudah.
+
+Setiap bagian dirancang dengan pendekatan praktis melalui contoh dataset, langkah analisis menggunakan R, interpretasi output, latihan, dan penerapan pada permasalahan penelitian kesehatan. Dengan demikian, tujuan modul ini bukan hanya membuat Anda mampu menjalankan kode R, tetapi membantu Anda membangun **alur analisis yang benar, transparan, dan dapat dipertanggungjawabkan secara ilmiah**.
+
+Modul ini dimulai dari konsep dasar R dan RStudio, kemudian berkembang menuju manajemen data, analisis deskriptif, analisis inferensial, analisis multivariable, visualisasi data, serta pelaporan hasil penelitian. Materi lanjutan seperti missing data, survival analysis, survey analysis, spatial analysis, dan dashboard dapat dipelajari sebagai pengembangan lebih lanjut.
+
+> **Learn the data. Analyze the evidence. Interpret the results. Create impact.**
+
+Selamat belajar dan selamat menganalisis data.

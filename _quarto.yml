@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Modul Quantitative Research with R and RStudio"
+  author: "Aldy Yusra, Falah Fauzi, Muhammad Ilham Basgoro"
+  date: "9/26/2026"
+  chapters:
+    - index.qmd
+    - part: bab1.qmd
+      chapters:
+        - subbab1.qmd
+        - subbab2.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
